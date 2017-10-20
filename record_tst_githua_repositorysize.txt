@@ -6,5 +6,5 @@ Yowza, that’s a big file. Try again with a file smaller than 25MB.
 Something went really wrong, and we can’t process that file. 
 Push第5个大文件时，是总容量大小限定，还是网络挂掉。Push失败.此时仓库容纳>23.10MB*4=92.40MB;
 Push第6个大文件时。Push成功.此时仓库容纳>23.10MB*6=138.60MB;
-Push第7个大文件时。Push成功.此时仓库容纳>23.10MB*7=161.70MB;
+Push第7个大文件时。Push失败.此时仓库容纳>23.10MB*6=138.60MB;
 
