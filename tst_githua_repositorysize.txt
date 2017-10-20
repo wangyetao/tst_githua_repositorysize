@@ -1,7 +1,7 @@
-Push´óÎÄ¼ş(0bdd07f22fbf61352cfebcef543502e7 - ¸±±¾ (5).apk,23.0MB)
+Pushå¤§æ–‡ä»¶(0bdd07f22fbf61352cfebcef543502e7 - å‰¯æœ¬ (5).apk,23.0MB)
 
-µ¥¸öÎÄ¼ş´óĞ¡²»ÄÜ³¬¹ı25MB.
-Yowza, that¡¯s a big file. Try again with a file smaller than 25MB. 
+å•ä¸ªæ–‡ä»¶å¤§å°ä¸èƒ½è¶…è¿‡25MB.
+Yowza, thatâ€™s a big file. Try again with a file smaller than 25MB. 
 
-PushµÚÎå¸ö´óÎÄ¼şÊ±£¬ÊÇ×ÜÈİÁ¿´óĞ¡ÏŞ¶¨£¬»¹ÊÇÍøÂç¹Òµô¡£
-Something went really wrong, and we can¡¯t process that file. 
+Pushç¬¬äº”ä¸ªå¤§æ–‡ä»¶æ—¶ï¼Œæ˜¯æ€»å®¹é‡å¤§å°é™å®šï¼Œè¿˜æ˜¯ç½‘ç»œæŒ‚æ‰ã€‚Pushå¤±è´¥!
+Something went really wrong, and we canâ€™t process that file. 
