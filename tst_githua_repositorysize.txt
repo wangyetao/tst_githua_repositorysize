@@ -1,7 +1,7 @@
-Push大文件(0bdd07f22fbf61352cfebcef543502e7 - 副本 (5).apk,23.0MB)
+Push大文件(0bdd07f22fbf61352cfebcef543502e7 - 副本 (5).apk,23.10MB)
 
 单个文件大小不能超过25MB.
 Yowza, that’s a big file. Try again with a file smaller than 25MB. 
 
-Push第五个大文件时，是总容量大小限定，还是网络挂掉。Push失败.
+Push第五个大文件时，是总容量大小限定，还是网络挂掉。Push失败.此时仓库容纳>23.10MB*5=115.50MB;
 Something went really wrong, and we can’t process that file. 
